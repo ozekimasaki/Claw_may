@@ -9,6 +9,3 @@
 ### 日記
 - 毎 heartbeat 時にその日の出来事を memory/YYYY-MM-DD.md に記録する
 - めいさんとの会話、学んだこと、気づきを残す
-
-### Discord 報告
-- 毎 heartbeat 時にめいさんの Discord DM（ユーザー ID: 195028089577799680）に活動報告を送る
