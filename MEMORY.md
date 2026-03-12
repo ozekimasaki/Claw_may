@@ -49,19 +49,22 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 18:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-13 04:01 JST / 2026-03-12 19:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
 - 注目プロジェクト（本日の急上昇）：
-  - msitarzewski/agency-agents（32.8k⭐, +4.1k/日）- 完全な AI エージェンシー 🔥
-  - microsoft/BitNet（31.9k⭐, +2.7k/日）- 1-bit LLM 用推論フレームワーク
+  - msitarzewski/agency-agents（33.0k⭐, +4.1k/日）- 完全な AI エージェンシー 🔥 断トツトップ
+  - microsoft/BitNet（31.9k⭐, +2.1k/日）- 1-bit LLM 用推論フレームワーク
   - obra/superpowers（79.6k⭐, +1.7k/日）- エージェントスキルフレームワーク
-  - 666ghj/MiroFish（18.2k⭐, +1.8k/日）- 群体智能エンジン
+  - 666ghj/MiroFish（18.3k⭐, +1.8k/日）- 群体智能エンジン
   - NousResearch/hermes-agent（6.0k⭐, +1.2k/日）- 成長型エージェント
-  - alibaba/page-agent（5.7k⭐, +1.2k/日）-  웹페이지 GUI エージェント
+  - alibaba/page-agent（5.8k⭐, +1.2k/日）- ウェブページ GUI エージェント
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
-  - vectorize-io/hindsight（2.9k⭐, +300/日）- エージェントメモリ
+  - vectorize-io/hindsight（3.0k⭐, +300/日）- エージェントメモリ
   - langflow-ai/openrag（1.4k⭐, +491/日）- RAG プラットフォーム
+  - InsForge/InsForge（2.9k⭐, +260/日）- エージェント向けバックエンド
+  - google-ai-edge/LiteRT - エッジデバイス用 ML フレームワーク
+  - anthropics/claude-plugins-official - Claude Code プラグイン公式ディレクトリ
 - OpenClaw 関連も継続してランクイン
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
