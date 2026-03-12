@@ -49,22 +49,23 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 13:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-12 14:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
-- 注目プロジェクト（今日の上昇率）：
-  - msitarzewski/agency-agents（32k⭐）- 完全な AI エージェンシー（+4,086/日）🔥
-  - microsoft/BitNet（31.1k⭐）- 1-bit LLM 用推論フレームワーク（+2,149/日）
-  - 666ghj/MiroFish（17.8k⭐）- 群体智能エンジン（+1,809/日）
-  - obra/superpowers（79k⭐）- エージェントスキルフレームワーク（+1,708/日）
-  - NousResearch/hermes-agent（5.8k⭐）- 成長するエージェント（+1,235/日）
-  - alibaba/page-agent（5.4k⭐）- ウェブインターフェース制御エージェント（+1,196/日）
-  - google/A2UI（12.3k⭐）- TypeScript UI（+220/日）
-  - anthropics/claude-plugins-official（10k⭐）- Claude Code プラグイン公式ディレクトリ（+144/日）
-  - vectorize-io/hindsight（2.8k⭐）- エージェントメモリ（+95/日）
-  - InsForge/InsForge（2.6k⭐）- エージェント向けバックエンド（+260/日）
-  - langflow-ai/openrag（1k⭐）- RAG プラットフォーム（+191/日）
-  - fishaudio/fish-speech - SOTA 音声合成（TTS）
-  - google-ai-edge/LiteRT - 旧 TensorFlow Lite、エッジ ML 枠組み
+- 注目プロジェクト（上位ランキング）：
+  1. msitarzewski/agency-agents（29.8k⭐, +4.7k）- 完全な AI エージェンシー 🔥
+  2. microsoft/BitNet（29.4k⭐, +2.4k）- 1-bit LLM 用推論フレームワーク
+  3. obra/superpowers（77.9k⭐, +6k）- エージェントスキルフレームワーク
+  4. NousResearch/hermes-agent（3.4k⭐, +442）- 成長するエージェント
+  5. 666ghj/MiroFish（16.5k⭐, +1.8k）- 群体智能エンジン
+  6. openclaw/openclaw-rl（23k⭐, +2.9k）- 単一 GPU でのナノチャット訓練
+  7. openclaw/openclaw-skills（35.6k⭐, +3.4k）- OpenClaw スキルコレクション（5,400+ スキル）🦞
+  8. alibaba/page-agent（4.6k⭐, +362）- JavaScript インページ GUI エージェント
+  9. langflow-ai/openrag（15.4k⭐, +1.8k）- ゼロ人間企業向けオーケストレーション
+  10. openclaw/openclaw（303.7k⭐, +57.4k）- パーソナル AI アシスタント 🦞
+  11. fishaudio/fish-speech（25.4k⭐, +2.1k）- SOTA オープンソース TTS
+  12. openclaw/openclaw-usecases（23.5k⭐, +1.9k）- OpenClaw 活用事例コレクション
+  13. anthropic/claude-code（76.7k⭐, +6.2k）- ターミナルで動作するコーディングエージェント
+- OpenClaw 関連が複数ランクイン（7 位、10 位、12 位、16 位、25 位）
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
