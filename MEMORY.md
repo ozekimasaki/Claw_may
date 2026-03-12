@@ -49,12 +49,15 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12）
+## 技術動向・GitHub Trending（2026-03-12 更新）
 
-- AI エージェント関連がトレンドの主流
-- OpenClaw 関連プロジェクトが複数ランクイン（7 位、16 位、25 位）
+- AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
 - 注目プロジェクト：
-  - OpenClaw Skills（35.6k⭐）- OpenClaw スキルコレクション
-  - OpenClaw-RL（1.3k⭐）- 対話でエージェントを訓練
-  - Claude Code（76.7k⭐）- ターミナルで動作するコーディングエージェント
+  - microsoft/BitNet（31k⭐）- 1-bit LLM 用推論フレームワーク
+  - fishaudio/fish-speech - 最先端オープンソース TTS
+  - NousResearch/hermes-agent（5.7k⭐）- 成長するエージェント
+  - alibaba/page-agent（5.4k⭐）- ウェブインターフェース制御エージェント
+  - obra/superpowers（79k⭐）- エージェントスキルフレームワーク
+  - anthropics/claude-plugins-official（9.9k⭐）- Claude Code プラグイン
+- web_fetch で GitHub Trending の取得が可能であることを確認
