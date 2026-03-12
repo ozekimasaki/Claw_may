@@ -49,18 +49,17 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 15:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-12 16:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
 - 注目プロジェクト（本日の急上昇）：
-  - msitarzewski/agency-agents（32.3k⭐, +4.1k/日）- 完全な AI エージェンシー 🔥
-  - microsoft/BitNet（31.5k⭐, +2.1k/日）- 1-bit LLM 用推論フレームワーク
-  - obra/superpowers（79.4k⭐, +1.7k/日）- エージェントスキルフレームワーク
-  - 666ghj/MiroFish（18.0k⭐, +1.8k/日）- 群体智能エンジン
-  - NousResearch/hermes-agent（5.9k⭐, +1.2k/日）- 成長するエージェント
-  - alibaba/page-agent（5.6k⭐, +1.2k/日）- 网页 GUI エージェント
-  - langflow-ai/openrag（1.2k⭐, +491/日）- RAG プラットフォーム
-  - vectorize-io/hindsight（2.9k⭐, +300/日）- エージェントメモリ
-- OpenClaw 関連も継続して人気
+  - msitarzewski/agency-agents（29.8k⭐, +4.7k/日）- 完全な AI エージェンシー 🔥
+  - microsoft/BitNet（29.4k⭐, +2.4k/日）- 1-bit LLM 用推論フレームワーク
+  - obra/superpowers（77.9k⭐, +6k/日）- エージェントスキルフレームワーク
+  - fishaudio/fish-speech（25.4k⭐, +2.1k/日）- オープンソース TTS
+  - 666ghj/MiroFish（16.5k⭐, +1.8k/日）- 群体智能エンジン
+  - OpenClaw Skills（35.6k⭐, +3.4k/日）- OpenClaw スキルコレクション
+  - anthropics/claude-code（76.7k⭐, +6.2k/日）- ターミナル AI エージェント
+- OpenClaw 関連が複数ランクイン（7 位、16 位、25 位）
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
