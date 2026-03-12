@@ -49,7 +49,7 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 16:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-12 17:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
@@ -61,5 +61,8 @@
   - 666ghj/MiroFish（16.5k⭐, +1.8k/日）- 群体智能エンジン
   - OpenClaw Skills（35.6k⭐, +3.4k/日）- OpenClaw スキルコレクション
   - anthropics/claude-code（76.7k⭐, +6.2k/日）- ターミナル AI エージェント
-- OpenClaw 関連が複数ランクイン（7 位、16 位、25 位）
+  - OpenClaw（303.7k⭐, +57.4k/日）- 個人 AI アシスタント
+  - nanochat（23k⭐, +2.9k/日）- 単一 GPU での AI 研究トレーニング
+  - hermes-agent（6k⭐, +675/日）- 成長型エージェント
+- OpenClaw 関連が複数ランクイン（7 位、10 位、16 位、25 位）
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
