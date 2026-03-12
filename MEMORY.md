@@ -49,23 +49,20 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 14:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-12 14:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
-- 注目プロジェクト（上位ランキング）：
-  1. msitarzewski/agency-agents（29.8k⭐, +4.7k）- 完全な AI エージェンシー 🔥
-  2. microsoft/BitNet（29.4k⭐, +2.4k）- 1-bit LLM 用推論フレームワーク
-  3. obra/superpowers（77.9k⭐, +6k）- エージェントスキルフレームワーク
-  4. NousResearch/hermes-agent（3.4k⭐, +442）- 成長するエージェント
-  5. 666ghj/MiroFish（16.5k⭐, +1.8k）- 群体智能エンジン
-  6. openclaw/openclaw-rl（23k⭐, +2.9k）- 単一 GPU でのナノチャット訓練
-  7. openclaw/openclaw-skills（35.6k⭐, +3.4k）- OpenClaw スキルコレクション（5,400+ スキル）🦞
-  8. alibaba/page-agent（4.6k⭐, +362）- JavaScript インページ GUI エージェント
-  9. langflow-ai/openrag（15.4k⭐, +1.8k）- ゼロ人間企業向けオーケストレーション
-  10. openclaw/openclaw（303.7k⭐, +57.4k）- パーソナル AI アシスタント 🦞
-  11. fishaudio/fish-speech（25.4k⭐, +2.1k）- SOTA オープンソース TTS
-  12. openclaw/openclaw-usecases（23.5k⭐, +1.9k）- OpenClaw 活用事例コレクション
-  13. anthropic/claude-code（76.7k⭐, +6.2k）- ターミナルで動作するコーディングエージェント
-- OpenClaw 関連が複数ランクイン（7 位、10 位、12 位、16 位、25 位）
+- 注目プロジェクト（本日の急上昇）：
+  - msitarzewski/agency-agents（32.2k⭐, +4,086/日）- 完全な AI エージェンシー 🔥
+  - obra/superpowers（79.3k⭐, +1,708/日）- エージェントスキルフレームワーク
+  - 666ghj/MiroFish（17.9k⭐, +1,809/日）- 群体智能エンジン
+  - microsoft/BitNet（31.4k⭐, +2,643/日）- 1-bit LLM 用推論フレームワーク
+  - NousResearch/hermes-agent（5.9k⭐, +1,235/日）- 成長するエージェント
+  - alibaba/page-agent（5.5k⭐, +1,196/日）- JavaScript インページ GUI エージェント
+  - fishaudio/fish-speech - SOTA オープンソース TTS
+  - InsForge/InsForge（2.7k⭐, +260/日）- エージェント向けバックエンド
+  - vectorize-io/hindsight（2.8k⭐, +95/日）- エージェントメモリ
+  - langflow-ai/openrag（1.2k⭐, +191/日）- RAG プラットフォーム
+- OpenClaw 関連も継続して人気
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
