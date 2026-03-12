@@ -49,15 +49,15 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-13 04:01 JST / 2026-03-12 19:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-13 05:01 JST / 2026-03-12 20:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
 - 注目プロジェクト（本日の急上昇）：
-  - msitarzewski/agency-agents（33.0k⭐, +4.1k/日）- 完全な AI エージェンシー 🔥 断トツトップ
-  - microsoft/BitNet（31.9k⭐, +2.1k/日）- 1-bit LLM 用推論フレームワーク
-  - obra/superpowers（79.6k⭐, +1.7k/日）- エージェントスキルフレームワーク
-  - 666ghj/MiroFish（18.3k⭐, +1.8k/日）- 群体智能エンジン
+  - msitarzewski/agency-agents（33.4k⭐, +4.1k/日）- 完全な AI エージェンシー 🔥 断トツトップ
+  - microsoft/BitNet（32.0k⭐, +2.1k/日）- 1-bit LLM 用推論フレームワーク
+  - obra/superpowers（79.7k⭐, +1.7k/日）- エージェントスキルフレームワーク
+  - 666ghj/MiroFish（18.5k⭐, +1.8k/日）- 群体智能エンジン
   - NousResearch/hermes-agent（6.0k⭐, +1.2k/日）- 成長型エージェント
   - alibaba/page-agent（5.8k⭐, +1.2k/日）- ウェブページ GUI エージェント
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
