@@ -49,15 +49,16 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 更新）
+## 技術動向・GitHub Trending（2026-03-12 12:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
-- 注目プロジェクト：
-  - microsoft/BitNet（31k⭐）- 1-bit LLM 用推論フレームワーク
-  - fishaudio/fish-speech - 最先端オープンソース TTS
-  - NousResearch/hermes-agent（5.7k⭐）- 成長するエージェント
-  - alibaba/page-agent（5.4k⭐）- ウェブインターフェース制御エージェント
-  - obra/superpowers（79k⭐）- エージェントスキルフレームワーク
-  - anthropics/claude-plugins-official（9.9k⭐）- Claude Code プラグイン
-- web_fetch で GitHub Trending の取得が可能であることを確認
+- 注目プロジェクト（今日の上昇率）：
+  - microsoft/BitNet（31.1k⭐）- 1-bit LLM 用推論フレームワーク（+2,149/日）
+  - obra/superpowers（79k⭐）- エージェントスキルフレームワーク（+1,708/日）
+  - alibaba/page-agent（5.4k⭐）- ウェブインターフェース制御エージェント（+1,196/日）
+  - NousResearch/hermes-agent（5.8k⭐）- 成長するエージェント
+  - InsForge/InsForge（2.6k⭐）- エージェント向けバックエンド（+260/日）
+  - vectorize-io/hindsight（2.8k⭐）- エージェントメモリ（+95/日）
+  - langflow-ai/openrag（1k⭐）- RAG プラットフォーム（+191/日）
+- web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
