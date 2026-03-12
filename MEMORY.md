@@ -49,19 +49,22 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-12 12:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-12 13:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell
 - 注目プロジェクト（今日の上昇率）：
   - msitarzewski/agency-agents（32k⭐）- 完全な AI エージェンシー（+4,086/日）🔥
+  - microsoft/BitNet（31.1k⭐）- 1-bit LLM 用推論フレームワーク（+2,149/日）
   - 666ghj/MiroFish（17.8k⭐）- 群体智能エンジン（+1,809/日）
   - obra/superpowers（79k⭐）- エージェントスキルフレームワーク（+1,708/日）
   - NousResearch/hermes-agent（5.8k⭐）- 成長するエージェント（+1,235/日）
   - alibaba/page-agent（5.4k⭐）- ウェブインターフェース制御エージェント（+1,196/日）
-  - microsoft/BitNet（31.1k⭐）- 1-bit LLM 用推論フレームワーク（+2,149/日）
   - google/A2UI（12.3k⭐）- TypeScript UI（+220/日）
-  - InsForge/InsForge（2.6k⭐）- エージェント向けバックエンド（+260/日）
+  - anthropics/claude-plugins-official（10k⭐）- Claude Code プラグイン公式ディレクトリ（+144/日）
   - vectorize-io/hindsight（2.8k⭐）- エージェントメモリ（+95/日）
+  - InsForge/InsForge（2.6k⭐）- エージェント向けバックエンド（+260/日）
   - langflow-ai/openrag（1k⭐）- RAG プラットフォーム（+191/日）
+  - fishaudio/fish-speech - SOTA 音声合成（TTS）
+  - google-ai-edge/LiteRT - 旧 TensorFlow Lite、エッジ ML 枠組み
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
