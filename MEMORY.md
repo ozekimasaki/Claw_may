@@ -65,21 +65,21 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 00:31 JST / 2026-03-13 15:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 01:01 JST / 2026-03-13 16:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
-  - msitarzewski/agency-agents（38.6k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 圧倒的トップ
+  - msitarzewski/agency-agents（38.7k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 圧倒的トップ
   - microsoft/BitNet（33.5k⭐, +2,223/日）- 1-bit LLM 用推論フレームワーク
   - obra/superpowers（81.4k⭐, +2,096/日）- エージェントスキルフレームワーク
-  - AstrBotDevs/AstrBot（23.6k⭐, +1,770/日）- 統合 IM チャットボット基盤（OpenClaw 代替候補）✨
   - promptfoo/promptfoo（14.8k⭐, +1,850/日）- AI プロンプトテスト・レッドチーミング
-  - alibaba/page-agent（7.1k⭐, +1,467/日）- ウェブページ GUI エージェント
-  - lightpanda-io/browser（14.8k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）
-  - langflow-ai/openrag（2.0k⭐, +905/日）- RAG プラットフォーム
+  - AstrBotDevs/AstrBot（23.6k⭐, +1,770/日）- 統合 IM チャットボット基盤（OpenClaw 代替候補）✨
+  - alibaba/page-agent（7.2k⭐, +1,467/日）- ウェブページ GUI エージェント
+  - lightpanda-io/browser（14.8k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）🐼
+  - langflow-ai/openrag（2.1k⭐, +905/日）- RAG プラットフォーム
   - InsForge/InsForge（3.5k⭐, +763/日）- エージェント向けバックエンド
-  - vectorize-io/hindsight（3.4k⭐, +597/日）- エージェントメモリ
+  - vectorize-io/hindsight（3.5k⭐, +597/日）- エージェントメモリ
   - google/A2UI（12.9k⭐, +629/日）- UI フレームワーク
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
