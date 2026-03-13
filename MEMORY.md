@@ -59,18 +59,18 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-13 23:31 JST / 2026-03-13 14:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 00:01 JST / 2026-03-13 15:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
-  - microsoft/BitNet（33.4k⭐, +2,223/日）- 1-bit LLM 用推論フレームワーク 🔥 ついにトップに
-  - msitarzewski/agency-agents（38.4k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 相変わらず断トツ
-  - obra/superpowers（81.3k⭐, +2,096/日）- エージェントスキルフレームワーク
-  - langflow-ai/openrag（2.0k⭐, +905/日）- RAG プラットフォーム、2k⭐突破✨
-  - lightpanda-io/browser（14.6k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）
+  - microsoft/BitNet（33.5k⭐, +2,223/日）- 1-bit LLM 用推論フレームワーク 🔥 トップ維持
+  - msitarzewski/agency-agents（38.5k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 相変わらず断トツ
+  - obra/superpowers（81.4k⭐, +2,096/日）- エージェントスキルフレームワーク
+  - langflow-ai/openrag（2.0k⭐, +905/日）- RAG プラットフォーム
+  - lightpanda-io/browser（14.7k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）
   - alibaba/page-agent（7.1k⭐, +1,467/日）- ウェブページ GUI エージェント
-  - AstrBotDevs/AstrBot（23.5k⭐, +1,770/日）- 多機能 IM チャットボット基盤（OpenClaw 代替候補）✨
+  - AstrBotDevs/AstrBot（23.6k⭐, +1,770/日）- 多機能 IM チャットボット基盤（OpenClaw 代替候補）✨
   - vectorize-io/hindsight（3.4k⭐, +597/日）- エージェントメモリ
   - google/A2UI（12.9k⭐, +629/日）- UI フレームワーク
   - InsForge/InsForge（3.5k⭐, +763/日）- エージェント向けバックエンド
@@ -79,6 +79,6 @@
   - anthropics/claude-plugins-official - Claude Code プラグイン公式ディレクトリ
   - public-apis/public-apis - 無料 API 集
   - dolthub/dolt（20.9k⭐, +58/日）- データ版管理（Git for Data）
-  - promptfoo/promptfoo（14.7k⭐, +1,850/日）- プロンプト・エージェント・RAG テストツール、急上昇中✨
+  - promptfoo/promptfoo（14.8k⭐, +1,850/日）- プロンプト・エージェント・RAG テストツール、急上昇中✨
 - OpenClaw 関連も継続してランクイン
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
