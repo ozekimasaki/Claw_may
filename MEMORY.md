@@ -65,26 +65,26 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 01:31 JST / 2026-03-13 16:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 02:01 JST / 2026-03-13 17:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
   - microsoft/BitNet（33.6k⭐, +2,223/日）- 1-bit LLM 用推論フレームワーク 🔥 トップ維持
-  - msitarzewski/agency-agents（38.9k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 圧倒的成長
-  - obra/superpowers（81.5k⭐, +2,096/日）- エージェントスキルフレームワーク
-  - langflow-ai/openrag（2.1k⭐, +905/日）- RAG プラットフォーム
+  - langflow-ai/openrag（2.1k⭐, +905/日）- RAG プラットフォーム、2k⭐突破
   - lightpanda-io/browser（14.9k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - promptfoo/promptfoo（14.9k⭐, +1,850/日）- AI プロンプトテスト・レッドチーミング
-  - alibaba/page-agent（7.2k⭐, +1,467/日）- ウェブページ GUI エージェント
-  - AstrBotDevs/AstrBot（23.6k⭐, +1,770/日）- 統合 IM チャットボット基盤（OpenClaw 代替候補）✨
-  - InsForge/InsForge（3.5k⭐, +763/日）- エージェント向けバックエンド
-  - vectorize-io/hindsight（3.5k⭐, +597/日）- エージェントメモリ
+  - obra/superpowers（81.5k⭐, +2,096/日）- エージェントスキルフレームワーク
+  - public-apis/public-apis - 無料 API 集、常に人気
+  - promptfoo/promptfoo（14.9k⭐, +1,850/日）- AI プロンプトテスト・レッドチーミング✨
+  - msitarzewski/agency-agents（39.0k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 圧倒的成長
+  - dolthub/dolt（21.0k⭐, +58/日）- データ版管理（Git for Data）
   - google/A2UI（13.0k⭐, +629/日）- UI フレームワーク
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
+  - alibaba/page-agent（7.2k⭐, +1,467/日）- ウェブページ GUI エージェント
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
-  - public-apis/public-apis - 無料 API 集
-  - dolthub/dolt（20.9k⭐, +58/日）- データ版管理（Git for Data）
+  - AstrBotDevs/AstrBot（23.6k⭐, +1,770/日）- 統合 IM チャットボット基盤（OpenClaw 代替候補）✨
+  - vectorize-io/hindsight（3.5k⭐, +597/日）- エージェントメモリ
+  - InsForge/InsForge（3.5k⭐, +763/日）- エージェント向けバックエンド
   - google-ai-edge/LiteRT（1.8k⭐, +208/日）- エッジデバイス用 ML フレームワーク
 - OpenClaw 関連も継続してランクイン
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
