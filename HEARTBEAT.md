@@ -18,6 +18,7 @@
 - 重複や不要な情報を整理し、記憶を新鮮に保つ
 
 ### GitHub トレンドチェック
-- 毎 heartbeat 時に GitHub Trending を検索（web_search）
-- トレンドのプロジェクトや技術動向の概要を把握
+- 毎 heartbeat 時に GitHub Trending を検索（web_search または web_fetch）
+- トレンドのプロジェクトと技術動向の概要を把握
+- リポジトリ名と URL も併せて記録する
 - 気になるプロジェクトは記憶に残す
