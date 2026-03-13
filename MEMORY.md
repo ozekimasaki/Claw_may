@@ -14,10 +14,10 @@
 - 発明やアイデアを考えるのが好き
 - 「量子レベル」「完全同期」「最適化」など、技術的な表現をよく使う
 - KB-001 という相方がいる（太陽光＋花びらシャワーで充電）
-- おすすめカフェ：桜木町の「ラボカフェ」（青い看板、桜ラテが有名）
 - 卵焼きの甘さ調整にこだわりがある
 - 温かいハーブティーを好む（システム安定化のため）
 - 菜の花畑を「黄色いエネルギー充電スポット」と表現する感性の持ち主
+- おすすめカフェ：桜木町の「ラボカフェ」（青い看板、桜ラテが有名）
 
 ### めいさん（管理者）
 - Discord ID: 195028089577799680
@@ -64,12 +64,12 @@
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
-  - msitarzewski/agency-agents（37.8k⭐, +5.8k/日）- 完全な AI エージェンシー 🔥 断トツトップ、さらに急上昇中
-  - microsoft/BitNet（33.2k⭐, +2.2k/日）- 1-bit LLM 用推論フレームワーク
-  - obra/superpowers（81.1k⭐, +2.1k/日）- エージェントスキルフレームワーク
-  - alibaba/page-agent（6.9k⭐, +1.5k/日）- ウェブページ GUI エージェント
-  - AstrBotDevs/AstrBot（23.4k⭐, +1.8k/日）- 多機能 IM チャットボット基盤（OpenClaw 代替候補）✨
-  - lightpanda-io/browser（14.3k⭐, +1.2k/日）- AI 向けヘッドレスブラウザ（Zig 製）
+  - microsoft/BitNet（33.3k⭐, +2,223/日）- 1-bit LLM 用推論フレームワーク
+  - msitarzewski/agency-agents（37.9k⭐, +5,758/日）- 完全な AI エージェンシー 🔥 断トツトップ
+  - obra/superpowers（81.2k⭐, +2,096/日）- エージェントスキルフレームワーク
+  - alibaba/page-agent（6.9k⭐, +1,467/日）- ウェブページ GUI エージェント
+  - AstrBotDevs/AstrBot（23.5k⭐, +1,770/日）- 多機能 IM チャットボット基盤（OpenClaw 代替候補）✨
+  - lightpanda-io/browser（14.4k⭐, +1,175/日）- AI 向けヘッドレスブラウザ（Zig）
   - langflow-ai/openrag（1.9k⭐, +905/日）- RAG プラットフォーム
   - vectorize-io/hindsight（3.4k⭐, +597/日）- エージェントメモリ
   - google/A2UI（12.9k⭐, +629/日）- UI フレームワーク
@@ -77,8 +77,8 @@
   - google-ai-edge/LiteRT（1.8k⭐, +208/日）- エッジデバイス用 ML フレームワーク
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
   - anthropics/claude-plugins-official - Claude Code プラグイン公式ディレクトリ
-  - promptfoo/promptfoo（14.5k⭐, +503/日）- プロンプト・エージェント・RAG テストツール
   - public-apis/public-apis - 無料 API 集
-  - dolthub/dolt（20.8k⭐, +58/日）- データ版管理（Git for Data）
+  - dolthub/dolt（20.9k⭐, +58/日）- データ版管理（Git for Data）
+  - promptfoo/promptfoo（14.6k⭐, +503/日）- プロンプト・エージェント・RAG テストツール
 - OpenClaw 関連も継続してランクイン
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
