@@ -72,22 +72,22 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 19:01 JST / 2026-03-14 10:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 19:31 JST / 2026-03-14 10:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
   - microsoft/BitNet（34.4k⭐, +2,227/日）- 1-bit LLM 用推論フレームワーク 🔥 トップ維持
   - langflow-ai/openrag（2.4k⭐, +905/日）- RAG プラットフォーム
-  - lightpanda-io/browser（16.1k⭐, +2,093/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - obra/superpowers（82.3k⭐, +2,106/日）- エージェントスキルフレームワーク
+  - lightpanda-io/browser（16.2k⭐, +2,093/日）- AI 向けヘッドレスブラウザ（Zig）🐼
+  - obra/superpowers（82.4k⭐, +2,106/日）- エージェントスキルフレームワーク
   - public-apis/public-apis - 無料 API 集、常に人気
   - promptfoo/promptfoo（15.5k⭐, +1,668/日）- AI プロンプトテスト・レッドチーミング✨
-  - msitarzewski/agency-agents（41.4k⭐, +5,745/日）- 完全な AI エージェンシー 🔥 断トツ
+  - msitarzewski/agency-agents（41.7k⭐, +5,745/日）- 完全な AI エージェンシー 🔥 断トツ
   - dolthub/dolt（21.2k⭐, +60/日）- データ版管理（Git for Data）
   - google/A2UI（13.1k⭐, +635/日）- UI フレームワーク
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
-  - alibaba/page-agent（7.9k⭐, +1,468/日）- ウェブページ GUI エージェント
+  - alibaba/page-agent（8.0k⭐, +1,468/日）- ウェブページ GUI エージェント
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
   - AstrBotDevs/AstrBot（24.2k⭐, +1,128/日）- 統合 IM チャットボット基盤（OpenClaw 代替候補）✨
   - vectorize-io/hindsight（3.8k⭐, +595/日）- エージェントメモリ
