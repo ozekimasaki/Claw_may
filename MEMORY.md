@@ -72,20 +72,19 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 20:01 JST / 2026-03-14 11:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 20:31 JST / 2026-03-14 11:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
-  - volcengine/OpenViking（9.5k⭐, +2,191/日）- AI Agent 用コンテキストデータベース 🔥 新規トップ
+  - volcengine/OpenViking（9.5k⭐, +2,191/日）- AI Agent 用コンテキストデータベース 🔥 トップ維持
   - p-e-w/heretic（13.2k⭐, +1,283/日）- 言語モデル用自動検閲除去
-  - dimensionalOS/dimos（694⭐, +64/日）- Dimensional Framework
-  - microsoft/BitNet（34.4k⭐, +2,227/日）- 1-bit LLM 用推論フレームワーク 🔥
-  - langflow-ai/openrag（2.5k⭐, +905/日）- RAG プラットフォーム
-  - lightpanda-io/browser（16.2k⭐, +2,093/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - obra/superpowers（82.5k⭐, +2,106/日）- エージェントスキルフレームワーク
-  - msitarzewski/agency-agents（41.8k⭐, +5,745/日）- 完全な AI エージェンシー 🔥 断トツ
-  - InsForge/InsForge（3.9k⭐, +766/日）- エージェント向けバックエンド
+  - dimensionalOS/dimos（703⭐, +64/日）- Dimensional Framework
+  - langflow-ai/openrag（2.5k⭐, +568/日）- RAG プラットフォーム
+  - lightpanda-io/browser（16.3k⭐, +2,100/日）- AI 向けヘッドレスブラウザ（Zig）🐼
+  - msitarzewski/agency-agents（41.9k⭐, +4,329/日）- 完全な AI エージェンシー 🔥
+  - obra/superpowers（82.5k⭐, +1,451/日）- エージェントスキルフレームワーク
+  - InsForge/InsForge（3.9k⭐, +477/日）- エージェント向けバックエンド
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
 - OpenViking は OpenClaw などの AI Agent 向けコンテキスト DB として注目🔥
