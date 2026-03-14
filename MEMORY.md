@@ -72,23 +72,23 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-15 07:01 JST / 2026-03-14 22:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-15 07:31 JST / 2026-03-14 22:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, JavaScript
 - 注目プロジェクト（本日の急上昇）：
-  - volcengine/OpenViking（10,361⭐, +1,557/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅 トップ維持
-  - lightpanda-io/browser（16,975⭐, +2,100/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - msitarzewski/agency-agents（43,461⭐, +4,329/日）- 完全な AI エージェンシー 🔥 断トツ
-  - obra/superpowers（83,261⭐, +1,451/日）- エージェントスキルフレームワーク
-  - langflow-ai/openrag（2,669⭐, +568/日）- RAG プラットフォーム
-  - InsForge/InsForge（4,104⭐, +477/日）- エージェント向けバックエンド
-  - dimensionalOS/dimos（830⭐, +64/日）- Dimensional Framework
-  - pbakaus/impeccable（8,105⭐, +781/日）- AI ハーネス向けデザイン言語 🆕
+  - volcengine/OpenViking（10,399⭐, +1,557/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅 トップ維持
+  - lightpanda-io/browser（16,999⭐, +2,100/日）- AI 向けヘッドレスブラウザ（Zig）🐼
+  - msitarzewski/agency-agents（43,507⭐, +4,329/日）- 完全な AI エージェンシー 🔥 断トツ
+  - obra/superpowers（83,306⭐, +1,451/日）- エージェントスキルフレームワーク
+  - langflow-ai/openrag（2,679⭐, +568/日）- RAG プラットフォーム
+  - InsForge/InsForge（4,116⭐, +477/日）- エージェント向けバックエンド
+  - dimensionalOS/dimos（835⭐, +64/日）- Dimensional Framework
+  - pbakaus/impeccable（8,130⭐, +781/日）- AI ハーネス向けデザイン言語 🆕
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
 - OpenViking は「OpenClaw などの AI エージェント向け」と明記されたコンテキスト DB🔥
 - ファイルシステムパラダイムで記憶・リソース・スキルを统一管理するアプローチ
-- 日曜日の朝 7 時、30 分でさらに 30⭐増加、成長が続いている
-- 新しいプロジェクト「impeccable」も登場（AI ハーネスのデザイン言語）
+- 日曜日の朝 7 時半、30 分でさらに 40⭐近く増加、成長が続いている
+- impeccable も 25⭐増加中（AI ハーネスのデザイン言語）
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
