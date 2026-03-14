@@ -72,7 +72,7 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 15:01 JST / 2026-03-14 06:01 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 15:31 JST / 2026-03-14 06:31 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
@@ -83,7 +83,7 @@
   - obra/superpowers（82.1k⭐, +2,106/日）- エージェントスキルフレームワーク
   - public-apis/public-apis - 無料 API 集、常に人気
   - promptfoo/promptfoo（15.4k⭐, +1,668/日）- AI プロンプトテスト・レッドチーミング✨
-  - msitarzewski/agency-agents（40.9k⭐, +5,745/日）- 完全な AI エージェンシー 🔥 断トツ
+  - msitarzewski/agency-agents（41.0k⭐, +5,745/日）- 完全な AI エージェンシー 🔥 断トツ
   - dolthub/dolt（21.1k⭐, +60/日）- データ版管理（Git for Data）
   - google/A2UI（13.1k⭐, +635/日）- UI フレームワーク
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
