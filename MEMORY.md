@@ -72,20 +72,20 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-14 22:31 JST / 2026-03-14 13:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-14 23:01 JST / 2026-03-14 14:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Go
 - 注目プロジェクト（本日の急上昇）：
-  - volcengine/OpenViking（9.7k⭐, +2,191/日）- AI Agent 用コンテキストデータベース 🔥 トップ維持
-  - p-e-w/heretic（13.2k⭐, +1,283/日）- 言語モデル用自動検閲除去
-  - dimensionalOS/dimos（728⭐, +64/日）- Dimensional Framework
+  - volcengine/OpenViking（9.7k⭐, +1,557/日）- AI Agent 用コンテキストデータベース 🔥 トップ維持
+  - anthropics/claude-plugins-official - Claude Code プラグイン公式
+  - dimensionalOS/dimos（730⭐, +64/日）- Dimensional Framework
+  - p-e-w/heretic - 言語モデル用自動検閲除去
   - langflow-ai/openrag（2.5k⭐, +568/日）- RAG プラットフォーム
   - lightpanda-io/browser（16.5k⭐, +2,100/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - msitarzewski/agency-agents（42.2k⭐, +4,329/日）- 完全な AI エージェンシー 🔥
+  - msitarzewski/agency-agents（42.3k⭐, +4,329/日）- 完全な AI エージェンシー 🔥 断トツ
   - obra/superpowers（82.6k⭐, +1,451/日）- エージェントスキルフレームワーク
-  - InsForge/InsForge（3.9k⭐, +477/日）- エージェント向けバックエンド
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
-  - anthropics/claude-plugins-official - Claude Code プラグイン公式
+  - InsForge/InsForge（3.9k⭐, +477/日）- エージェント向けバックエンド
 - OpenViking は OpenClaw などの AI Agent 向けコンテキスト DB として注目🔥
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
