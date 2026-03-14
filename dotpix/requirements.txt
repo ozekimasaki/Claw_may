@@ -1,0 +1,7 @@
+# dotpix dependencies
+
+# Required for terminal UI (usually pre-installed on Unix)
+# curses is part of Python standard library on Unix
+
+# Optional: For PNG export support
+Pillow>=9.0.0
