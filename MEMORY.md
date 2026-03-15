@@ -72,26 +72,26 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-15 22:31 JST / 2026-03-15 13:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-15 23:01 JST / 2026-03-15 14:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Rust
 - 注目プロジェクト（本日の急上昇）：
-  - lightpanda-io/browser（17,704⭐, +1,323/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップ維持**
-  - volcengine/OpenViking（11,544⭐, +1,877/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
+  - lightpanda-io/browser（17,741⭐, +1,323/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップ維持**
+  - volcengine/OpenViking（11,576⭐, +1,877/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
     - 朝から +2,000 スター以上増加！OpenClaw 関連プロジェクトがさらに成長
-  - Crosstalk-Solutions/project-nomad（735⭐, +241/日）- オフライン生存コンピューター（AI 搭載）
-  - shareAI-lab/learn-claude-code（27,507⭐, +865/日）- Claude Code 風エージェント
-  - obra/superpowers（84,664⭐, +1,893/日）- エージェントスキルフレームワーク
-  - p-e-w/heretic（14,296⭐, +1,066/日）- 言語モデル用自動検閲除去ツール
-  - 666ghj/MiroFish（25,743⭐, +2,045/日）- 群知能エンジン（予測）
-  - abhigyanpatwari/GitNexus（13,296⭐, +450/日）- ブラウザ動作の知識グラフ＋Graph RAG エージェント
+  - Crosstalk-Solutions/project-nomad（752⭐, +241/日）- オフライン生存コンピューター（AI 搭載）
+  - shareAI-lab/learn-claude-code（27,539⭐, +865/日）- Claude Code 風エージェント
+  - obra/superpowers（84,751⭐, +1,893/日）- エージェントスキルフレームワーク
+  - p-e-w/heretic（14,320⭐, +1,066/日）- 言語モデル用自動検閲除去ツール
+  - 666ghj/MiroFish（25,822⭐, +2,045/日）- 群知能エンジン（予測）
+  - abhigyanpatwari/GitNexus（13,340⭐, +450/日）- ブラウザ動作の知識グラフ＋Graph RAG エージェント
   - topoteretes/cognee - AI エージェントメモリ知識エンジン
-  - InsForge/InsForge（4,395⭐, +509/日）- エージェント向けバックエンド
-  - voidzero-dev/vite-plus（1,444⭐, +301/日）- Web 開発統一ツールチェーン（Rust）
+  - InsForge/InsForge（4,401⭐, +509/日）- エージェント向けバックエンド
+  - voidzero-dev/vite-plus（1,459⭐, +301/日）- Web 開発統一ツールチェーン（Rust）
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
   - shanraisshan/claude-code-best-practice - Claude Code ベストプラクティス
-- 夜 10 時半、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要
+- 夜 11 時、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要
 - Claude Code 関連プロジェクトが複数ランクイン、エージェント時代の本格化
 - OpenViking は朝から +2,000 スター以上増加（10k→11.5k）、OpenClaw 関連として心強い🦅
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
