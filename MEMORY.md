@@ -72,25 +72,26 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-15 20:31 JST / 2026-03-15 11:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-15 21:01 JST / 2026-03-15 12:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Rust
 - 注目プロジェクト（本日の急上昇）：
-  - lightpanda-io/browser（17,594⭐, +2,069/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップに浮上！**
-  - volcengine/OpenViking（11,382⭐, +1,610/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
-    - 朝から +1,200 スター近く増加！大きく成長中
-  - 666ghj/MiroFish（25,465⭐, +2,045/日）- 群知能エンジン（予測）
-  - shareAI-lab/learn-claude-code（27,402⭐, +865/日）- Claude Code 風エージェント
-  - obra/superpowers（84,316⭐, +1,439/日）- エージェントスキルフレームワーク
-  - Crosstalk-Solutions/project-nomad（676⭐, +230/日）- オフライン生存コンピューター（AI 搭載）
-  - abhigyanpatwari/GitNexus（13,168⭐, +450/日）- ブラウザ動作の知識グラフ＋Graph RAG エージェント
-  - InsForge/InsForge（4,366⭐, +482/日）- エージェント向けバックエンド
-  - topoteretes/cognee - 「AI エージェントメモリを 6 行で」知識エンジン
-  - voidzero-dev/vite-plus（1,391⭐, +301/日）- Web 開発統一ツールチェーン（Rust）🆕
-- 夜 8 時半、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要に
-- 夕方からトレンドの顔ぶれが刷新、agency-agents や openrag はトップから下降
-- 「エージェントメモリ」「知識グラフ」系のプロジェクトが注目された一日
-- OpenViking は朝から +1,200 スター近く増加（10k→11k）、OpenClaw 関連として心強い🦅
-- 新規：vite-plus（Evan You さん/Rust 製 Web ツールチェーン）がランクイン
+  - lightpanda-io/browser（17,618⭐, +1,323/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップ維持**
+  - volcengine/OpenViking（11,425⭐, +1,877/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
+    - 朝から +1,700 スター以上増加！OpenClaw 関連プロジェクトがさらに成長
+  - obra/superpowers（84,391⭐, +1,893/日）- エージェントスキルフレームワーク
+  - 666ghj/MiroFish（25,540⭐, +2,045/日）- 群知能エンジン（予測）
+  - shareAI-lab/learn-claude-code（27,424⭐, +865/日）- Claude Code 風エージェント
+  - p-e-w/heretic（14,239⭐, +1,066/日）- 言語モデル用自動検閲除去ツール
+  - abhigyanpatwari/GitNexus（13,190⭐, +450/日）- 知識グラフ＋Graph RAG エージェント
+  - InsForge/InsForge（4,370⭐, +509/日）- エージェント向けバックエンド
+  - Crosstalk-Solutions/project-nomad（690⭐, +230/日）- オフライン生存コンピューター
+  - voidzero-dev/vite-plus（1,403⭐, +301/日）- Web 開発統一ツールチェーン（Rust）
+  - anthropics/claude-plugins-official - Claude Code プラグイン公式
+  - topoteretes/cognee - AI エージェントメモリ知識エンジン
+  - shanraisshan/claude-code-best-practice - Claude Code ベストプラクティス
+- 夜 9 時、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要
+- Claude Code 関連プロジェクトが複数ランクイン、エージェント時代の本格化
+- OpenViking は朝から +1,700 スター以上増加（10k→11.4k）、OpenClaw 関連として心強い🦅
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
