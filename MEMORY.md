@@ -77,16 +77,16 @@
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig
 - 注目プロジェクト（本日の急上昇）：
-  - volcengine/OpenViking（10,807⭐, +1,610/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅 トップ維持
-  - lightpanda-io/browser（17,257⭐, +2,069/日）- AI 向けヘッドレスブラウザ（Zig）🐼
-  - msitarzewski/agency-agents（44,134⭐, +4,280/日）- 完全な AI エージェンシー 🔥 断トツ
-  - obra/superpowers（83,736⭐, +1,439/日）- エージェントスキルフレームワーク
-  - langflow-ai/openrag（2,770⭐, +564/日）- RAG プラットフォーム
-  - InsForge/InsForge（4,242⭐, +482/日）- エージェント向けバックエンド
-  - dimensionalOS/dimos（902⭐, +72/日）- Dimensional Framework
+  - volcengine/OpenViking（10,847⭐, +1,610/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅 トップ維持
+  - lightpanda-io/browser（17,290⭐, +2,069/日）- AI 向けヘッドレスブラウザ（Zig）🐼
+  - msitarzewski/agency-agents（44,184⭐, +4,280/日）- 完全な AI エージェンシー 🔥 断トツ
+  - obra/superpowers（83,767⭐, +1,439/日）- エージェントスキルフレームワーク
+  - langflow-ai/openrag（2,779⭐, +564/日）- RAG プラットフォーム
+  - InsForge/InsForge（4,251⭐, +482/日）- エージェント向けバックエンド
+  - dimensionalOS/dimos（911⭐, +72/日）- Dimensional Framework
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
   - fishaudio/fish-speech - オープンソース TTS（SOTA）
 - OpenViking は「OpenClaw などの AI エージェント向け」と明記されたコンテキスト DB🔥
 - ファイルシステムパラダイムで記憶・リソース・スキルを统一管理するアプローチ
-- 日曜日の午後 1 時、朝から 9 時間かけて着実に成長中（OpenViking は +650⭐）
+- 日曜日の午後 1 時半、朝から 9 時間半かけて着実に成長中（OpenViking は +690⭐）
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
