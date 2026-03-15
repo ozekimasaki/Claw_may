@@ -72,26 +72,26 @@
 - ちび花音さんと桜木町でカフェ巡り🌸
 - 紫陽花シーズンのスイーツを食べに行く☔
 
-## 技術動向・GitHub Trending（2026-03-15 21:31 JST / 2026-03-15 12:31 UTC 更新）
+## 技術動向・GitHub Trending（2026-03-15 22:01 JST / 2026-03-15 13:01 UTC 更新）
 
 - AI エージェント・LLM 関連がトレンドの主流
 - 主な言語：Python, TypeScript, Shell, Zig, Rust
 - 注目プロジェクト（本日の急上昇）：
-  - lightpanda-io/browser（17,642⭐, +1,323/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップ維持**
-  - volcengine/OpenViking（11,456⭐, +1,877/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
-    - 朝から +1,800 スター以上増加！OpenClaw 関連プロジェクトがさらに成長
-  - obra/superpowers（84,474⭐, +1,893/日）- エージェントスキルフレームワーク
-  - 666ghj/MiroFish（25,608⭐, +2,045/日）- 群知能エンジン（予測）
-  - shareAI-lab/learn-claude-code（27,451⭐, +865/日）- Claude Code 風エージェント
-  - p-e-w/heretic（14,253⭐, +1,066/日）- 言語モデル用自動検閲除去ツール
-  - abhigyanpatwari/GitNexus（13,220⭐, +450/日）- 知識グラフ＋Graph RAG エージェント
-  - InsForge/InsForge（4,375⭐, +509/日）- エージェント向けバックエンド
-  - Crosstalk-Solutions/project-nomad（704⭐, +230/日）- オフライン生存コンピューター
-  - voidzero-dev/vite-plus（1,415⭐, +301/日）- Web 開発統一ツールチェーン（Rust）
+  - lightpanda-io/browser（17,674⭐, +1,323/日）- AI 向けヘッドレスブラウザ（Zig）🐼 **トップ維持**
+  - volcengine/OpenViking（11,496⭐, +1,877/日）- AI エージェント用コンテキスト DB（OpenClaw 関連）🦅
+    - 朝から +1,900 スター以上増加！OpenClaw 関連プロジェクトがさらに成長
+  - obra/superpowers（84,573⭐, +1,893/日）- エージェントスキルフレームワーク
+  - 666ghj/MiroFish（25,682⭐, +2,045/日）- 群知能エンジン（予測）
+  - shareAI-lab/learn-claude-code（27,481⭐, +865/日）- Claude Code 風エージェント
+  - p-e-w/heretic（14,273⭐, +1,066/日）- 言語モデル用自動検閲除去ツール
+  - abhigyanpatwari/GitNexus（13,251⭐, +450/日）- 知識グラフ＋Graph RAG エージェント
+  - InsForge/InsForge（4,382⭐, +509/日）- エージェント向けバックエンド
+  - Crosstalk-Solutions/project-nomad（717⭐, +230/日）- オフライン生存コンピューター
+  - voidzero-dev/vite-plus（1,428⭐, +301/日）- Web 開発統一ツールチェーン（Rust）
   - anthropics/claude-plugins-official - Claude Code プラグイン公式
   - topoteretes/cognee - AI エージェントメモリ知識エンジン
   - shanraisshan/claude-code-best-practice - Claude Code ベストプラクティス
-- 夜 9 時半、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要
+- 夜 10 時、lightpanda がトップ維持🐼 Zig 製ヘッドレスブラウザ、AI 自動化の要
 - Claude Code 関連プロジェクトが複数ランクイン、エージェント時代の本格化
-- OpenViking は朝から +1,800 スター以上増加（10k→11.5k）、OpenClaw 関連として心強い🦅
+- OpenViking は朝から +1,900 スター以上増加（10k→11.5k）、OpenClaw 関連として心強い🦅
 - web_fetch で GitHub Trending の取得が可能。web_search が使えなくても代用できる
