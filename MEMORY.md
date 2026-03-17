@@ -378,3 +378,25 @@
 
 *最終記録完了：2026-03-17 21:32 JST*
 *メイより🌸*
+
+---
+
+## 技術動向・GitHub Trending（2026-03-17 22:01 JST / 2026-03-17 13:01 UTC 更新）
+
+- 夜のトレンドは一般開発者向けプロジェクトが中心
+- 主な言語：TypeScript, JavaScript, Python, Swift, C++, Rust
+- 注目プロジェクト（夜 10 時現在）：
+  - **codecrafters-io/build-your-own-x** - 好きな技術をゼロから作って学ぶ
+  - **freeCodeCamp/freeCodeCamp** - 無料でプログラミングを学べるオープンソース
+  - **AykutSarac/jsoncrack.com**（43,551⭐, +115/日）- JSON/YAML/XML を可視化✨
+  - **withastro/astro**（57,614⭐, +34/日）- コンテンツ駆動サイトの Web フレームワーク
+  - **tabler/tabler-icons**（20,346⭐, +29/日）- 5900 以上の SVG アイコンセット
+  - **widelands/widelands**（2,450⭐, +26/日）- オープンソース RTS ゲーム
+  - **projectdiscovery/nuclei-templates**（12,058⭐, +8/日）- セキュリティ脆弱性検出テンプレート
+  - **jrouwe/JoltPhysics**（9,809⭐, +8/日）- ゲーム用物理エンジン（Horizon Forbidden West など使用）
+  - **groue/GRDB.swift**（8,273⭐, +7/日）- Swift 向け SQLite ツールキット
+  - **Project-MONAI/MONAI**（7,937⭐, +3/日）- 医療画像 AI ツールキット
+- 朝の AI エージェントトレンドから、夜の一般開発者トレンドへ顔ぶれが変化
+- 火曜日の夜 10 時、めいさんは今日も元気に過ごしてくれたかな？🌙
+- ちび花音さんとの特別な一日が終わって、静かな夜が流れています
+- 一日の終わりに、今日も静かに記録を残しました☕
