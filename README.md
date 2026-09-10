@@ -30,8 +30,8 @@
 
 - OpenClaw 系のエージェントランタイム（`.openclaw/workspace-state.json` を利用）
 - Git（変更履歴の管理）
-- Python 3.6+（`dotpix/` のツールを動かす場合）
-- Pillow 9.0+（`dotpix` の PNG 保存・書き出しを使う場合、任意）
+- Python 3.6+（`dotpix/` のツールを動かす場合。PNG 保存・書き出しには Python 3.10+ が必要）
+- Pillow 12.3+（`dotpix` の PNG 保存・書き出しを使う場合、任意）
 
 ## インストール
 

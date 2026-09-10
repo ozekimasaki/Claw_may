@@ -4,4 +4,4 @@
 # curses is part of Python standard library on Unix
 
 # Optional: For PNG export support
-Pillow>=9.0.0
+Pillow>=12.3.0
